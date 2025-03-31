@@ -25,6 +25,7 @@
 ### 🏆 Contador de visitas  
 ![Contador de visitas](https://komarev.com/ghpvc/?username=LucasFleitas&color=blue)  
 
----
-![Snake animation](https://github.com/LucasFleitas/LucasFleitas/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/LucasFleitas/LucasFleitas/output/snake.svg" alt="Snake animation" />
+
+###
 
