@@ -17,13 +17,13 @@
 ---
 
 ### 📊 Mis estadísticas  
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)  
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=LucasFleitas&show_icons=true&theme=tokyonight)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFleitas&layout=compact&theme=radical)  
 
 ---
 
 ### 🏆 Contador de visitas  
-![Contador de visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue)  
+![Contador de visitas](https://komarev.com/ghpvc/?username=LucasFleitas&color=blue)  
 
 ---
 ![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
