@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy JuanDev  
+# 👋 ¡Hola! Soy Lucas
 ### 🚀 Desarrollador Full Stack | 💡 Amante de la tecnología  
 
 - 🔭 Actualmente trabajando en **MiBotDeDiscord**  
