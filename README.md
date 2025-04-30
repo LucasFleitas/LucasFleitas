@@ -1,11 +1,10 @@
 # 👋 ¡Hola! Soy Lucas
 ### 🚀 Desarrollador Full Stack | 💡 Amante de la tecnología  
 
-- 🔭 Actualmente trabajando en **MiBotDeDiscord**  
+- 🔭 Actualmente trabajando en **MiBotDeDiscord, AppFichajeDigital**  
 - 🌱 Aprendiendo **Node.js, Discord.js y APIs**  
-- 💬 Pregúntame sobre **Desarrollo de Bots y Automatización**  
-- 🎯 Objetivo: **Crear herramientas útiles para la comunidad**  
-- 📫 Contáctame en: [Twitter](https://twitter.com/) | [LinkedIn](https://linkedin.com/)  
+- 💬 Pregúntame sobre **Desarrollo de Bots y Automatización, Backend**  
+- 🎯 Objetivo: **Crear herramientas útiles para la comunidad**   
 
 ---
 
